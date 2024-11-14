@@ -1,2 +1,2 @@
-# kala
-projects or bigners in c++
+# kalak
+projects or beginners in c++
